@@ -12,6 +12,8 @@ npm install node-red-contrib-cayenne-mqtt-client
 ```
 
 ## Version History
+### 0.0.3 - 2020-07-03
+- Fix rel_hum unit, add soil_moist
 ### 0.0.2 - 2016-11-24
 - All Cayenne Actuator Types now selectable in the dropdown list.
 - All Cayenne Sensor Types now selectable in the dropdown list.
