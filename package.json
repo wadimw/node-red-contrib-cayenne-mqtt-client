@@ -20,6 +20,6 @@
         "type"     : "git",
         "url"      : "https://github.com/wadimw/node-red-contrib-cayenne-mqtt-client.git"
     },
-    "author"       : "github.com/wadimw",
+    "author"       : "github.com/mikejac",
     "license"      : "GPLv3"
 }
